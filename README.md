@@ -2,6 +2,13 @@
 
 A deep learning-based system that translates hand gestures into text across 6 Indian languages — Hindi, Marathi, Tamil, Telugu, Malayalam, and Bengali — using a webcam and a trained CNN model for inclusive communication.
 
+[![Build Status](https://github.com/Sukalevinit/Real-Time-Sign-Language-Translator/actions/workflows/python-app.yml/badge.svg)](https://github.com/Sukalevinit/Real-Time-Sign-Language-Translator/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Sukalevinit/Real-Time-Sign-Language-Translator)](https://github.com/Sukalevinit/Real-Time-Sign-Language-Translator/commits/main)
+[![Stars](https://img.shields.io/github/stars/Sukalevinit/Real-Time-Sign-Language-Translator.svg?style=social)](https://github.com/Sukalevinit/Real-Time-Sign-Language-Translator/stargazers)
+[![Forks](https://img.shields.io/github/forks/Sukalevinit/Real-Time-Sign-Language-Translator.svg?style=social)](https://github.com/Sukalevinit/Real-Time-Sign-Language-Translator/network/members)
+[![Issues](https://img.shields.io/github/issues/Sukalevinit/Real-Time-Sign-Language-Translator.svg)](https://github.com/Sukalevinit/Real-Time-Sign-Language-Translator/issues)
+
 This project is a real-time sign language recognition system that uses a Convolutional Neural Network (CNN) to detect hand gestures via webcam and translate them into text. It supports multiple Indian languages, making it a valuable tool for inclusive communication.
 
 ---
