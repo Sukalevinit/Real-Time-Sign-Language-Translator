@@ -1,5 +1,6 @@
+# 🧠# 🔤 Real-Time Sign Language Translator
 
-# 🧠 Real-Time Sign Language Translator
+A deep learning-based system that translates hand gestures into text across 6 Indian languages — Hindi, Marathi, Tamil, Telugu, Malayalam, and Bengali — using a webcam and a trained CNN model for inclusive communication.
 
 This project is a real-time sign language recognition system that uses a Convolutional Neural Network (CNN) to detect hand gestures via webcam and translate them into text. It supports multiple Indian languages, making it a valuable tool for inclusive communication.
 
